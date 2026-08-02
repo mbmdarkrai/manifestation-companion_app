@@ -1,0 +1,5 @@
+streamlit
+
+# Optional — only needed for live Claude-personalized coaching.
+# Without it, the app runs fully on free templates.
+anthropic
